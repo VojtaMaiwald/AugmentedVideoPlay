@@ -1,4 +1,10 @@
 # AugmentedVideoPlay
-Playing video on detected predefined pattern
+Playing video of matrix console on detected predefined pattern.
 
-Video of Matrix loding code set to display on predefined image
+ARCore services in version 1.20 required
+
+Sceneform version: 1.15.0
+
+Video used: https://youtu.be/kqUR3KtWbTk
+
+Examples and resources: https://github.com/VojtaMaiwald/Resources/tree/main/AugmentedVideoPlay
